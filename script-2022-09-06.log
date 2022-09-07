@@ -1,0 +1,23 @@
+Script started on 2022-09-06 23:43:12-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="106" LINES="25"]
+[?2004h]0;musaabdel19@penguin: ~[01;32mmusaabdel19@penguin[00m:[01;34m~[00m$ pwd
+[?2004l/home/musaabdel19
+[?2004h]0;musaabdel19@penguin: ~[01;32mmusaabdel19@penguin[00m:[01;34m~[00m$ mkdir Programs
+[?2004l[?2004h]0;musaabdel19@penguin: ~[01;32mmusaabdel19@penguin[00m:[01;34m~[00m$ cd Programs/
+[?2004l[?2004h]0;musaabdel19@penguin: ~/Programs[01;32mmusaabdel19@penguin[00m:[01;34m~/Programs[00m$ toucj [K[Kh helloworld.cpp
+[?2004l[?2004h]0;musaabdel19@penguin: ~/Programs[01;32mmusaabdel19@penguin[00m:[01;34m~/Programs[00m$ g++ helloworld.cpp
+[?2004l[01m[Khelloworld.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kstudio.h: No such file or directory
+    1 | #include [01;31m[K<studio.h>[m[K
+      |          [01;31m[K^~~~~~~~~~[m[K
+compilation terminated.
+[?2004h]0;musaabdel19@penguin: ~/Programs[01;32mmusaabdel19@penguin[00m:[01;34m~/Programs[00m$ g++ helloworld.cpp
+[?2004l[01m[Khelloworld.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[Khelloworld.cpp:6:30:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K;[m[K’ token
+    6 |   cout << "Hello World\n" >> [01;31m[K;[m[K
+      |                              [01;31m[K^[m[K
+[?2004h]0;musaabdel19@penguin: ~/Programs[01;32mmusaabdel19@penguin[00m:[01;34m~/Programs[00m$ g++ helloworld.cpp
+[?2004l[?2004h]0;musaabdel19@penguin: ~/Programs[01;32mmusaabdel19@penguin[00m:[01;34m~/Programs[00m$ ./a.out
+[?2004lHello World
+[?2004h]0;musaabdel19@penguin: ~/Programs[01;32mmusaabdel19@penguin[00m:[01;34m~/Programs[00m$ exit
+[?2004lexit
+
+Script done on 2022-09-06 23:51:13-04:00 [COMMAND_EXIT_CODE="0"]

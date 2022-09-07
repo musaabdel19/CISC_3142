@@ -1,0 +1,11 @@
+[2022-09-06 01:15:05.780] [sharedprocess] [info] Starting worker process with pid 8631 (type: fileWatcher, window: 1).
+[2022-09-06 01:15:08.091] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-06 01:16:45.944] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-09-06 01:16:46.007] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-09-06 01:16:56.534] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/musaabdel19/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-09-06 01:17:18.684] [sharedprocess] [info] Extracted extension to /home/musaabdel19/.vscode/extensions/.93c3fbbc-4a1f-43e7-b9b5-18be9817d1b4: ms-vscode.cpptools
+[2022-09-06 01:17:18.782] [sharedprocess] [info] Renamed to /home/musaabdel19/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-09-06 01:17:18.854] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-09-06 01:17:18.878] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-09-06 01:19:56.417] [sharedprocess] [info] Worker process with pid 8631 terminated normally (type: fileWatcher, window: 1).
+[2022-09-06 01:20:00.467] [sharedprocess] [info] Starting worker process with pid 8716 (type: fileWatcher, window: 1).

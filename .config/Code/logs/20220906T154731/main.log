@@ -1,0 +1,5 @@
+[2022-09-06 15:47:31.973] [main] [info] update#setState idle
+[2022-09-06 15:47:36.762] [main] [info] Starting extension host with pid 2273 (fork() took 70 ms).
+[2022-09-06 15:48:01.971] [main] [info] update#setState checking for updates
+[2022-09-06 15:48:02.120] [main] [info] update#setState idle
+[2022-09-06 15:49:53.147] [main] [info] Extension host with pid 2273 exited with code: 0, signal: null.

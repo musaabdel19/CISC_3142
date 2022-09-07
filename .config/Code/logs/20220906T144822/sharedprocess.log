@@ -1,0 +1,2 @@
+[2022-09-06 14:48:37.483] [sharedprocess] [info] Starting worker process with pid 705 (type: fileWatcher, window: 1).
+[2022-09-06 14:48:37.699] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

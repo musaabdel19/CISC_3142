@@ -1,0 +1,29 @@
+[2022-09-06 14:55:40.608] [exthost] [info] Extension host with pid 1487 started
+[2022-09-06 14:55:40.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-06 14:55:41.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-06 14:55:41.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-06 14:55:41.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-06 14:55:41.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-06 14:55:41.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-06 14:55:41.904] [exthost] [info] Eager extensions activated
+[2022-09-06 14:55:42.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-06 14:55:42.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-06 14:55:42.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-06 14:55:59.647] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-06 14:55:59.673] [exthost] [info] Extension host with pid 1487 exiting with code 0
+[2022-09-06 14:56:06.540] [exthost] [info] Extension host with pid 1557 started
+[2022-09-06 14:56:06.540] [exthost] [info] Skipping acquiring lock for /home/musaabdel19/.config/Code/User/workspaceStorage/6cae6504907cf782a7d5636ca76fc8f9.
+[2022-09-06 14:56:06.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-06 14:56:07.064] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-06 14:56:07.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-06 14:56:07.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-06 14:56:07.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-06 14:56:07.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-06 14:56:07.831] [exthost] [info] Eager extensions activated
+[2022-09-06 14:56:08.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-06 14:56:08.043] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-06 14:56:08.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-06 14:56:09.366] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-09-06 14:56:39.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-09-06 15:18:30.165] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-06 15:18:30.795] [exthost] [info] Extension host with pid 1557 exiting with code 0

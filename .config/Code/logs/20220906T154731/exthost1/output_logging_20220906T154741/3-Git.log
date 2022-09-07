@@ -1,0 +1,41 @@
+[2022-09-06T19:47:48.323Z] Log level: Info
+[2022-09-06T19:47:48.339Z] [info] Validating found git in: git
+[2022-09-06T19:47:48.461Z] [info] Using git 2.30.2 from git
+[2022-09-06T19:47:48.590Z] > git rev-parse --show-toplevel [75ms]
+[2022-09-06T19:47:48.590Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-06T19:47:48.666Z] > git rev-parse --show-toplevel [23ms]
+[2022-09-06T19:47:48.666Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-06T19:47:48.849Z] > git rev-parse --show-toplevel [138ms]
+[2022-09-06T19:47:48.849Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-06T19:47:49.567Z] > git rev-parse --show-toplevel [62ms]
+[2022-09-06T19:47:49.567Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-06T19:48:30.999Z] > git init [30ms]
+[2022-09-06T19:48:30.999Z] hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+[2022-09-06T19:48:31.593Z] > git rev-parse --show-toplevel [3ms]
+[2022-09-06T19:48:31.614Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-09-06T19:48:31.647Z] [info] Open repository: /home/musaabdel19/Code/cpp/HelloWorld
+[2022-09-06T19:48:31.678Z] > git status -z -uall [8ms]
+[2022-09-06T19:48:31.699Z] > git symbolic-ref --short HEAD [8ms]
+[2022-09-06T19:48:31.723Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+[2022-09-06T19:48:31.760Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+[2022-09-06T19:48:31.767Z] > git remote --verbose [13ms]
+[2022-09-06T19:48:31.805Z] > git config --get commit.template [8ms]
+[2022-09-06T19:48:31.919Z] > git status -z -uall [59ms]
+[2022-09-06T19:48:31.985Z] > git symbolic-ref --short HEAD [12ms]
+[2022-09-06T19:48:32.019Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+[2022-09-06T19:48:32.110Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [38ms]
+[2022-09-06T19:48:32.132Z] > git remote --verbose [26ms]
+[2022-09-06T19:48:32.175Z] > git config --get commit.template [2ms]
+[2022-09-06T19:48:32.585Z] > git show --textconv :HelloWorld.cpp [22ms]
+[2022-09-06T19:48:32.603Z] > git ls-files --stage -- /home/musaabdel19/Code/cpp/HelloWorld/HelloWorld.cpp [21ms]
+[2022-09-06T19:48:32.854Z] > git check-ignore -v -z --stdin [15ms]
+[2022-09-06T19:48:45.820Z] > git check-ignore -v -z --stdin [4ms]
