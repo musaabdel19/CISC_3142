@@ -1,6 +1,0 @@
-[2022-09-06 15:47:47.939] [renderer1] [error] [Extension Host] (node:2273) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2022-09-06 15:47:50.259] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
-[2022-09-06 15:47:50.261] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
-[2022-09-06 15:47:50.346] [renderer1] [error] XHR failed: Error: XHR failed
-    at v.onerror (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:8688)

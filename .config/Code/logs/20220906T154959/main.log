@@ -1,5 +1,0 @@
-[2022-09-06 15:49:59.809] [main] [info] update#setState idle
-[2022-09-06 15:50:04.382] [main] [info] Starting extension host with pid 2634 (fork() took 27 ms).
-[2022-09-06 15:50:29.809] [main] [info] update#setState checking for updates
-[2022-09-06 15:50:30.033] [main] [info] update#setState idle
-[2022-09-06 15:59:03.127] [main] [info] Extension host with pid 2634 exited with code: 0, signal: null.
