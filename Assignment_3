@@ -1,0 +1,41 @@
+# Assignment 3 - Musa Abdelrazaq
+
+**2.1)** short, int, long, and long long all represent integer values of various ranges, with each one greater than the last.
+     An unsigned data type represents values greater than or equal to 0.
+     A signned data type represents values less than or equal to 0.
+     Both float and double are used for more precise computations where its often represented by a decimal value, the difference being 
+     that double is twice as precise as float.
+
+**2.2)** Rearding a mortgage payment:
+     Rate - int or float since this is usually represented by a value divided by 100.
+     Principal -  int since this value can't be negative
+     Payment - double since this value requires precision.
+
+**2.3)** 32
+     65504
+     32
+     -32
+     0
+     0
+
+**2.10)** global_str and global_int are initialized as empty strings and 0 and local_str is considered an empty string.
+
+**2.12)** A,C and D are all invalid
+
+**2.13)** j = 100
+
+**2.14)** It is legal since i is declared before the actual for loop and it prints 100 45
+
+**2.17)** 10 10
+
+**2.27)** B is valid since the initialization of a constant pointer cannot change value.
+      C is valid because both values presented are constant
+      D is valid because a constant pointer is initialized
+      E is valid since pointer p1 is initialized to a constant integer
+      G is valid since it presents initialized constants
+
+**2.28)** A is illegal because the contant pointer cp isn't initialized
+      B is illegal p2 isn't initialized
+      C is legal since ic is initialized
+      D is illegal since p3 isn't initialized
+      E is legal since the pointer is assigned to a constant integer

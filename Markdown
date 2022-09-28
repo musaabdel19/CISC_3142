@@ -1,0 +1,28 @@
+# Heading
+
+### smaller heading
+
+** BOLD **
+
+* Italic *
+
+~~ Strikethrough ~~
+
+*** Bold/Italic ***
+
+<sub> Subscript
+
+<sup> Superscript
+
+> Quotation for text
+
+``` quotaion for code ```
+
+[text for link](actual hyperlink) - add ! to display an image
+
+- lists
+
+| Table  |
+|--------|
+|contents|
+
