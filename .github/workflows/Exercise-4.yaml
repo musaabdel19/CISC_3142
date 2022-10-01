@@ -1,0 +1,20 @@
+name: Exercise-4
+
+on: [push]
+
+jobs:
+   Exercise-4:
+     runs-on: ubuntu-latest
+     steps:
+         - run: echo "Running Makefile"
+	 - name: hw-files
+	   run: g++ 3-17.cpp -o 3-17
+	   	g++ 3-23.cpp -o 3-23
+		g++ 4-28.cpp -o 4-28
+		g++ inflation.cpp -o inflation
+		g++ soda.cpp -o soda
+	 - run: ./3-17
+	   	./3-23
+		./4-28
+		./inflation
+		./soda

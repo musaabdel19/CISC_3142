@@ -1,0 +1,20 @@
+#include <iostream>
+#include <vector>
+#include <iterator>
+using namespace std;
+
+int main() {
+  vector<int> v(10);
+  int x = 1;
+
+  vector<int>::iterator it = v.begin();
+  vector<int>::iterator itEnd = v.end();
+
+  while (it != itEnd) {
+    *it = x = x*2;
+    cout << *it << " ";
+    it++;
+  }
+  return 0;
+}
+  
