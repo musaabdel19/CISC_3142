@@ -1,0 +1,25 @@
+name: Exercise 5
+
+on:
+ push:
+   branches: [ "master" ]
+ pull_request:
+   branches: [ "master" ]
+
+ workflow_dispatch:
+ 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v3
+     - name: Ex_5 - Init
+       run: g++ 4-5.cpp -o 4-5
+       	    g++ add.cpp -o add
+	    g++ prime.cpp -o prime
+	    
+     - name: Run exe_Files
+       run: ./4-5
+            ./add
+	    ./prime

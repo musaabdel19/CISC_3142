@@ -1,0 +1,8 @@
+A) if (fval)
+   float to boolean: if fval = 0, then its false.
+
+B) dval = fval + ival;
+   int to float, then the results convert from float to double.
+
+C) dval + ival * cval;
+   char to int, then the results convert from int to double.

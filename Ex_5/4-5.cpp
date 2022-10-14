@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  float a,b,c,d;
+  a = (-30*3) + (21/5);
+  b = (-30*3) * (21/5);
+  c = (30/3) * (21%5);
+  d = (-30/3) * (21%4);
+
+  cout << a << endl;
+  cout << b << endl;
+  cout << c << endl;
+  cout << d << endl;
+
+  return 0;
+}

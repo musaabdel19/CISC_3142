@@ -1,0 +1,39 @@
+This program creates a Linear Regression model
+based on a separate excel/csv file
+(Will be done in pseudo code due to time constraints)
+
+import all necessary libraries
+(iostream, vector, fstream etc.)
+
+main function {
+     use mentioned libraries to call
+     created csv file
+
+     map and store each element of said file
+
+     while loop(start,fin) {
+     	   read each line in input file
+
+	   read each element of the line
+
+	   push values back to the line
+     }
+
+     create a scatterplot 
+
+     for loop (first point, last point) {
+     	 read through each coordinate
+	 and plot each point
+
+     }
+
+     calculate the mean of x and y coordinates
+     and use the results to display the regression model
+
+     return 0;
+
+}
+     	 
+
+
+     
