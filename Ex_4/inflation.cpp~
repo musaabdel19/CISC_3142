@@ -11,6 +11,7 @@ int main() {
   cout << "Enter the rate of inflation: " << endl;
   cin >> rate;
   rate = rate/100;
+  //takes given inputs and calculates new cost based on infl-rate given
   for (int i = 1; i < time; i++) {
     cost += cost * rate;
   }

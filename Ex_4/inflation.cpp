@@ -15,7 +15,6 @@ int main() {
   for (int i = 1; i < time; i++) {
     cost += cost * rate;
   }
-  cost =  (cost * 100) / 100;
   cout << "The expected price is: " << cost << endl;
 
   return 0;

@@ -1,12 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int i = 42;
 int main() {
-  int y = 100;
-  int &i = y;
-  int *p = &y;
-  i = i + int(&i) * (*p);
-  cout << i << endl;
-  return -1;
+  int x, y;
+
+  x = (((8 / 2) * 4) +(3 * 25) +((21 % 1) / 2));
+
+  y = 40 * 4 + 21 % 5;
+  cout << x << endl;
+  cout << y << endl;
+  
+  return 0;
 }
