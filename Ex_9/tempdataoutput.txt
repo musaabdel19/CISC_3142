@@ -1,0 +1,11 @@
+Month		Temperature	MovingAverage	WeightedMovingAverage
+Jan		39		0		0		
+Feb		42		0		0		
+Mar		50		44		46		
+Apr		60		51		54		
+May		71		60		64		
+Jun		79		70		73		
+Jul		85		78		81		
+Aug		81		82		82		
+Sep		76		81		79		
+ Avg Temp is: 64.7778

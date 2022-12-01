@@ -1,0 +1,28 @@
+name: Exercise 9
+
+on:
+ push:
+   branches: [ "master" ]
+ pull_request:
+   branches: [ "master" ]
+
+ workflow_dispatch:
+ 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v3
+     - name: Ex_9 - Init
+       run: g++ temp.cpp -o data
+	    
+     - name: Run exe_Files
+       run: ./data
+        
+on:
+ push:
+   branches: []
+   paths: "ex0/src/*.cpp"
+ jobs:
+   
